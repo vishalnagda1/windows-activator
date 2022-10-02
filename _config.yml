@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: [Windows Activator]
+description: [An guide how to activate Windows 10 And 11 Pro for free]
